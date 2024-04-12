@@ -18,7 +18,10 @@
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
-<h2> Cybersecurity Projects </h2>
+<h2> CyberSecurity Projects </h2>
+
+- <b> Python </b>
+- <b> Go </b>
 
 <h2>📺 Popular YouTube Videos</h2>
 
