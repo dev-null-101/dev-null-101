@@ -23,6 +23,11 @@
 - <b> Python </b>
 - <b> Go </b>
 
+<h2> Home Lab Projects </h2>
+
+- <b> Vagrant </b>
+- <b> Containers </b>
+
 <h2>📺 Popular YouTube Videos</h2>
 
 - [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
