@@ -3,7 +3,7 @@
 <h2>👨‍💻 Public Cloud Automation Projects:</h2>
 
 - <b>Infrastructure As A Code - Terraform</b>
-  - [Azure RG](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Azure RG](https://github.com/dev-null-101/public-cloud-terraform)
 - <b>Infrastructure As A Code - Ansible</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
