@@ -1,4 +1,4 @@
-<h1>Hi, I'm Neil! <br/><a href="https://github.com/dev-null-101">Cloud Engineer</a>, <a href="https://www.linkedin.com/in/neil-flores-91009a65/">Aspiring Cybersecurity Engineer</a>, <a href="https://www.youtube.com/@alwaysecure">YouTuber</a></h1>
+<h1>Hi, I'm Neil! <br/><a href="https://github.com/dev-null-101">Cloud Engineer</a>, <a href="https://www.linkedin.com/in/neil-flores-91009a65/">Aspiring Cybersecurity Engineer</a>, <a href="https://www.youtube.com/@alwaysecure">DevSecOps</a></h1>
 
 <h2>👨‍💻 Public Cloud Automation Projects:</h2>
 
