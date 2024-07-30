@@ -7,6 +7,7 @@
 - <b>Infrastructure As A Code - Ansible</b>
   - [Azure RG](https://github.com/dev-null-101/public-cloud-ansible) <b><i>(In-progress)</b></i>
 - <b>Python</b>
+  - [My blog](https://github.com/dev-null-101/myblog-repo)
   - [Create directory Structure for Terraform Based on Best Practices](https://github.com/dev-null-101/public-cloud-python/tree/development/terraform_dir_structure)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
   - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
