@@ -22,8 +22,8 @@
 
 <h2> Home Lab Projects </h2>
 
-- <b> Vagrant </b>
-- <b> Containers </b>
+- <b> Vagrant, Containers, Shell, Git configuration, Automation </b>
+  - [My Homelab ](https://github.com/dev-null-101/homelab/tree/development)
 
 <h2>📺 Popular YouTube Videos</h2>
 
