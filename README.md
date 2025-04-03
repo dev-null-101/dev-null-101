@@ -2,6 +2,8 @@
 
 <h2>👨‍💻 Public Cloud Automation Projects:</h2>
 
+- <b> Azure DevOps Project (Azure App Service + Docker + Flask + Terraform + GitHub Actions)</b>
+  - [Azure App Service Free](https://github.com/dev-null-101/azurelitedevops)
 - <b>Infrastructure As A Code - Terraform</b>
   - [Azure RG](https://github.com/dev-null-101/public-cloud-terraform)
 - <b>Infrastructure As A Code - Ansible</b>
