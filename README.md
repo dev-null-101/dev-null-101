@@ -22,7 +22,7 @@
 - <b>Github Action + Bash</b>
   - [Ubuntu system hardening](https://github.com/dev-null-101/ubuntu-system-hardening)
 - <b> Python </b>
-  - [python password check using Github Action](https://github.com/dev-null-101/password-checker-python)
+  - [Password check using Github Action](https://github.com/dev-null-101/password-checker-python)
 - <b> Go </b>
 
 <h2> Home Lab Projects </h2>
